@@ -24,3 +24,17 @@
     margin: 30px 0;
   }
   /* END ABOUT */
+
+  /* contact */
+  #contact h2 {
+    font-size: 54px;
+    font-family: viga font;
+  }
+
+  /* footer */
+  #foot {
+    background-color: #343a40 !important;
+  }
+  section {
+    min-height: 420px;
+  }

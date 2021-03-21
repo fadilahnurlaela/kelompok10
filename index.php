@@ -33,6 +33,89 @@
         </div>
     </div>
 </section>
+<!-- akhir about -->
+
+<!-- Message -->
+<section id="contact" class="contact mb-5 pt-5">
+    <div class="container">
+        <div class="row pt-4 mb-4">
+            <div class="col text-center">
+                <h2>Contact</h2>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+        <div class="col-lg-6">
+        <div class="mb-3">
+            <label for="name" class="form-label">Nama</label>
+                <input type="text" class="form-control" id="exampleFormControlInput1">
+        </div>
+        <div class="mb-3">
+            <label for="email" class="form-label">Email</label>
+                <input type="text" class="form-control" id="exampleFormControlInput1">
+        </div>
+        <div class="mb-3">
+            <label for="name" class="form-label">Alamat</label>
+                <input type="text" class="form-control" id="exampleFormControlInput1">
+        </div>
+        <div class="mb-3">
+                <label for="exampleFormControlTextarea1" class="form-label">Message</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        </div>
+        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+        <button class="btn btn-primary me-md-2" type="button">Button</button>
+        </div>
+    </div>
+    </div>
+</section>
+
+<!-- Awal Footer -->
+<footer id="foot" class="page-footer bg-dark">
+    <div class="headfoot">
+      <div class="container">
+        <div class="row py-4 d-flex align-items-center">
+          <div class="col-md-12 text-center">
+            <a href="#"><i class="fab fa-facebook fa-2x text-white mr-5"></i></a>
+            <a href="#"><i class="fab fa-google-plus-g fa-2x text-white mr-5"></i></a>
+            <a href="#"><i class="fab fa-twitter fa-2x text-white mr-5"></i></a>
+            <a href="#"><i class="fab fa-instagram fa-2x text-white mr-5"></i></a>
+            <a href="#"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container text-center text-md-left mt-5 text-light">
+
+      <div class="row">
+        <div class="col-md-2 mx-auto mb-4">
+          <h6 class="text-uppercase font-weight-bold">FEMALE</h6>
+          <hr class="bg-secondary mb-4 mt-0 d-inline-block mx-auto" style="width: 125px; height:2px;">
+          <ul class="list-unstyled" style="text-align:justify;">
+            <li class="my-2"><a href="#">Food</a></li>
+            <li class="my-2"><a href="#">Information</a></li>
+            <li class="my-2"><a href="#">About</a></li>
+            <li class="my-2"><a href="#">Contact</a></li>
+          </ul>
+        </div>
+        <div class="col-md-3 mx-auto mb-4">
+          <h6 class="text-uppercase font-weight-bold">The Provider</h6>
+          <hr class="bg-secondary mb-4 mt-0 d-inline-block mx-auto" style="width: 125px; height:2px;">
+          <ul class="list-unstyled">
+            <li class="my-2"> <a href="#"><i class="fab fa-facebook fa-2x text-white mr-3"></i>GroupPwl8</a></li>
+            <li id="move" class="my-2"> <a href="#"><i class="fab fa-google-plus-g fa-2x text-white mr-2"></i>GroupPwl8@gmail.com</a></li>
+            <li class="my-2"> <a href="#"><i class="fab fa-twitter fa-2x text-white mr-3"></i>Group_Pwl8</a></li>
+            <li class="my-2"> <a href="#"><i class="fab fa-instagram fa-2x text-white mr-3"></i>@GroupPwl8</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-copyright text-center py-3">
+        <p>&copy; Copyright
+          <a href="GroupPwl">Female</a>
+        </p>
+        <p>All Deserve</p>
+      </div>
+  </footer>
+  <!-- END FOOTER -->
 
 <script>
         var scene = document.getElementById('scene');
