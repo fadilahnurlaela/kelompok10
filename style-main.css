@@ -18,20 +18,9 @@
     font-weight: 200;
     text-transform: uppercase;
   }
-  
-  #about h3 span {
-    font-weight: 500;
-  }
-  
   #about p {
     font-size: 18px;
     font-weight: 250;
     margin: 30px 0;
   }
-  
-  #about .btn {
-    margin-bottom: 20px;
-    padding: 10px 20px;
-  }
-  
   /* END ABOUT */

@@ -19,15 +19,17 @@
                 <h2>ABOUT</h2>
             </div>
         </div>
-        <div class="row">
+        <div class="row justify-content-center">
             <div class="col-lg-6">
 		        <div id="scene" class="scene">
-			        <div data-depth="0.60"><img src="../img/roti.png" style="width:200px; height:200px;margin-top: 50px;" class="img-fluid" alt="About"></div>
+			        <div data-depth="0.60"><img src="../img/roti.png" style="width:200px; height:200px;margin-top: 10px;" class="img-fluid" alt="About"></div>
                 </div>
-            <div class="col-lg-5">
+            <div class="col-lg-12">
+            <h3 class="pKanan">This is About</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste odit iusto neque expedita laboriosam, 
                 debitis dignissimos labore vel tempore eos voluptates fugit commodi et delectus accusantium quasi nesciunt. Maiores, non?</p>
             </div>
+        </div>
         </div>
     </div>
 </section>
