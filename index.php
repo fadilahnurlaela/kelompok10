@@ -236,6 +236,60 @@
   </section>
 
   <!-- akhir menu minuman  -->
+  <section class="about" id="about">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h2 class="text-center">INFORMATION OF FOOD IN INDONESIA</h2>
+          <hr>
+        </div>
+      </div>
+
+
+
+      <div class="row">
+        <div class="col-sm-5 col-sm-offset-1">
+          <p class="pkiri">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+        <div class="col-sm-5">
+          <p class="pkanan">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- akhir about -->
+  <section class="about" id="about">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h2 class="text-center">INFORMATION OF DRINK IN INDONESIA</h2>
+          <hr>
+        </div>
+      </div>
+
+
+
+      <div class="row">
+        <div class="col-sm-5 col-sm-offset-1">
+          <p class="pkiri">Sudah bukan menjadi rahasia lagi bahwa Indonesia terkenal dengan makanan dan minumannya. Makanan dan minuman khas Indonesia terkenal karena bahan-bahannya yang khas dan juga kesan tradisionalnya yang tidak dapat dijumpai di negara lain. Minuman tradisional Indonesia juga tidak kalah dengan minuman buatan pabrik atau minuman yang kekinian saat ini. </p>
+        </div>
+        <div class="col-sm-5">
+          <p class="pkanan">Bahkan minuman khas Indonesia kebanyakan menggunakan bahan utama yang aman dan tidak mengandung bahan pengawet. Oleh karena itu mengapa minuman tradisional khas Indonesia juga merupakan minuman segar yang dapat menjadi pilihan untuk melepaskan dahaga di siang hari.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- akhir about -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 </body>
 
