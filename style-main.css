@@ -35,6 +35,8 @@
   #foot {
     background-color: #343a40 !important;
   }
-  section {
-    min-height: 420px;
-  }
+  #foot rounded-image{
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+}

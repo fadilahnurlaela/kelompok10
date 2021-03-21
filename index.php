@@ -89,7 +89,7 @@
       <div class="row">
         <div class="col-md-2 mx-auto mb-4">
           <h6 class="text-uppercase font-weight-bold">FEMALE</h6>
-          <hr class="bg-secondary mb-4 mt-0 d-inline-block mx-auto" style="width: 125px; height:2px;">
+          <hr class="bg-secondary mb-4 mt-0 d-inline-block mx-auto" style="width: 220px; height:2px;">
           <ul class="list-unstyled" style="text-align:justify;">
             <li class="my-2"><a href="#">Food</a></li>
             <li class="my-2"><a href="#">Information</a></li>
@@ -97,14 +97,14 @@
             <li class="my-2"><a href="#">Contact</a></li>
           </ul>
         </div>
-        <div class="col-md-3 mx-auto mb-4">
-          <h6 class="text-uppercase font-weight-bold">The Provider</h6>
-          <hr class="bg-secondary mb-4 mt-0 d-inline-block mx-auto" style="width: 125px; height:2px;">
-          <ul class="list-unstyled">
-            <li class="my-2"> <a href="#"><i class="fab fa-facebook fa-2x text-white mr-3"></i>GroupPwl8</a></li>
-            <li id="move" class="my-2"> <a href="#"><i class="fab fa-google-plus-g fa-2x text-white mr-2"></i>GroupPwl8@gmail.com</a></li>
-            <li class="my-2"> <a href="#"><i class="fab fa-twitter fa-2x text-white mr-3"></i>Group_Pwl8</a></li>
-            <li class="my-2"> <a href="#"><i class="fab fa-instagram fa-2x text-white mr-3"></i>@GroupPwl8</a></li>
+        <div class="col-md-3 mx-auto mb-5">
+          <h6 class="text-uppercase font-weight-bold">Akun</h6>
+          <hr class="bg-secondary mb-4 mt-0 d-inline-block mx-auto" style="width: 220px; height:2px;">
+          <ul class="list-unstyled" style="text-align: justify;">
+            <li class="my-2"> <a href=""><img src="img/git.jpg" style="width: 30px; height:30px;border-radius: 30px;"> Kelompok 10</a></li>
+            <li id="move" class="my-2"> <a href="#"><img src="img/draemon1.jpg" style="width: 30px; height:30px;border-radius: 30px;">Alipia Ibrahim</a></li>
+            <li class="my-2"> <a href="#"><img src="img/hello1.jpg" style="width: 30px; height:30px;border-radius: 30px;">Astuti Mega Putri Ratry</a></li>
+            <li class="my-2"> <a href="#"><img src="img/kerro.jpg" style="width: 30px; height:30px;border-radius: 30px;">Fadilah Nurlaela</a></li>
           </ul>
         </div>
         <div class="col-md-3 mx-auto mb-4">
