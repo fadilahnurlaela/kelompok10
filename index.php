@@ -22,7 +22,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-6">
 		        <div id="scene" class="scene">
-			        <div data-depth="0.60"><img src="../img/roti.png" style="width:200px; height:200px;margin-top: 10px;" class="img-fluid" alt="About"></div>
+			        <div data-depth="0.60"><img src="img/roti.png" style="width:200px; height:200px;margin-top: 10px;" class="img-fluid" alt="About"></div>
                 </div>
             <div class="col-lg-12">
             <h3 class="pKanan">This is About</h3>
@@ -106,6 +106,10 @@
             <li class="my-2"> <a href="#"><i class="fab fa-twitter fa-2x text-white mr-3"></i>Group_Pwl8</a></li>
             <li class="my-2"> <a href="#"><i class="fab fa-instagram fa-2x text-white mr-3"></i>@GroupPwl8</a></li>
           </ul>
+        </div>
+        <div class="col-md-3 mx-auto mb-4">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.705236475695!2d107.13949661395117!3d-6.805666368453325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6852e697990cef%3A0x2ddbb36bc8af404e!2sUniversitas%20Suryakancana!5e0!3m2!1sid!2sid!4v1615167700312!5m2!1sid!2sid" 
+                width="400" height="250" style="border:0; margin-left:-40px;" allowfullscreen="" loading="lazy"></iframe>
         </div>
       </div>
       <div class="footer-copyright text-center py-3">
