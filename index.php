@@ -112,6 +112,42 @@
     <!-- akhir caption -->
 
 
+      <!-- menu -->
+      <section class="menu">
+    <div class="container">
+        <div class="row"style="padding-top:20px;">
+             <div class="col"> 
+                 <div class="card">
+            <img src="img/2menu.jpg" class="card-img-top" alt="...">
+            <div class="card">
+    
+         </div>
+    </div></div>
+              <div class="col"> <div class="card ">
+            <img src="img/3menu.jpg" class="card-img-top" alt="...">
+            <div class="card">
+    
+  </div>
+  </div></div>
+
+              <div class="col"> <div class="card ">
+            <img src="img/4menu.jpg" class="card-img-top" alt="...">
+            <div class="card">
+    
+  </div>
+</div></div>
+              <div class="col"> <div class="card ">
+            <img src="img/1menu.jpg" class="card-img-top" alt="...">
+            <div class="card">
+    
+  </div>
+</div></div>
+         </div>
+    </div>
+    </section>
+
+    <!-- akhir menu  -->
+
 
 
 
